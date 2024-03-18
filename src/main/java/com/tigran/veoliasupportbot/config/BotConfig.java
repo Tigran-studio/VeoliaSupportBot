@@ -1,6 +1,6 @@
 package com.tigran.veoliasupportbot.config;
 
-import jakarta.validation.Valid;
+//import jakarta.validation.Valid;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
